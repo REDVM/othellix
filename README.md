@@ -1,5 +1,7 @@
 # Othellix
-Othello game in C written in 2011.
+Othello game in C, with UI in Gtk and IA using MinMax algorithm optimized by a genetic algorithm.
+
+Written in 2011, contains French comments.
 
 Preview : 
 
